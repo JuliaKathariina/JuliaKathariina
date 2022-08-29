@@ -1,3 +1,2 @@
 HI there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-
-<img align="right" alt="GIF" src="https://tenor.com/view/waving-saying-hello-penguin-gif-14603630" width="500" height="320" />
+<div class="tenor-gif-embed" data-postid="14603630" data-share-method="host" data-aspect-ratio="2.11921" data-width="100%"><a href="https://tenor.com/view/waving-saying-hello-penguin-gif-14603630">Waving Saying Hello GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
